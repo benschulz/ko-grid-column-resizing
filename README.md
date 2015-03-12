@@ -1,0 +1,1 @@
+A ko-grid extension enabling manual column resizing.
