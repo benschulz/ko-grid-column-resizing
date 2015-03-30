@@ -1,12 +1,12 @@
 /** @namespace */
-koGrid.extensions.columnResizing = {};
+de.benshu.ko.grid.extensions.columnResizing = {};
 
 /**
  * @constructor
  */
-koGrid.extensions.columnResizing.ColumnResizingExtension = function () {};
+de.benshu.ko.grid.extensions.columnResizing.ColumnResizingExtension = function () {};
 
 /**
  * @type {function():boolean}
  */
-koGrid.extensions.columnResizing.ColumnResizingExtension.prototype.isResizeInProgress;
+de.benshu.ko.grid.extensions.columnResizing.ColumnResizingExtension.prototype.isResizeInProgress;
